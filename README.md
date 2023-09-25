@@ -1,2 +1,2 @@
-# din-landing-1
+# odin-landing-1
 Odin landing project 1
