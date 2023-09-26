@@ -216,3 +216,15 @@ color: #fff;
 background-color: #3882f6;
 }
 
+
+/*************/
+
+.footer-section{
+background-color: #1f2937;
+padding: 30px 0;
+text-align: center;
+}
+
+.footer-section p{
+color: #fff;
+}
