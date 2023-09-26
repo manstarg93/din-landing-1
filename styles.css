@@ -41,6 +41,8 @@ list-style: none;
 .nav-link a{
     color: #e5efeb;
     font-size: 18px;
+    text-decoration: none;
+    list-style: none;
     
 }
 
