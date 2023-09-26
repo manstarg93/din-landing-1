@@ -163,7 +163,7 @@ padding: 50px 0;
 }
 
 .quote-container{
-width: 80%;
+width: 70%;
 margin: 0 auto;
 text-align: center;
 }
@@ -179,3 +179,40 @@ color: #1f2937;
 text-align: end;
 font-weight: bold;
 }
+
+/*******Call to action ******/
+
+.call-to-action-section{
+background-color: #fff;
+padding: 50px 0;
+}
+.call-to-action-container{
+width: 80%;
+margin: 0 auto;
+background-color: #3882f6;
+
+display: flex;
+justify-content: space-around;
+padding: 20px 0;
+}
+
+.call-to-action-text{
+color: #fff;
+
+
+}
+.call-to-action-text h3{
+color: #fff;
+
+}
+.call-to-action-button{
+border: solid .2px #fff;
+width: max-content;
+height: max-content;
+padding: 10px 20px;
+border-radius: 10px;
+align-self: center;
+color: #fff;
+background-color: #3882f6;
+}
+
