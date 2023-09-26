@@ -33,6 +33,7 @@ color: #f9faf8;
     display: flex;
     justify-content: space-between;
     gap: 10px;
+    align-items: center;
 }
 
 .nav-link{
@@ -44,6 +45,12 @@ list-style: none;
     text-decoration: none;
     list-style: none;
     
+}
+
+.getInTouch{
+    background-color: #3882f6;
+    padding: 5px 10px;
+    border-radius: 10px;
 }
 
 /************Hero Styles ********************/
@@ -97,9 +104,7 @@ gap: 10px;
 
 .hero-call-to-action button{
     background-color: #3882f6;
-    padding: 5px;
-    padding-left: 10px;
-    padding-right: 10px;
+   padding: 10px 20px;
     border-radius: 5px;
     text-align: center;
     border: none;
